@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #fee2e2;
+}
+.btn {
+  background: #fca5a5;
+  cursor: pointer;
+
+  border-radius: 1rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid #bfa2db;
+  margin: 1rem 0.3rem;
+  transition: background 0.4s, font-weight 0.4s;
+  font-size: 2rem;
+}
+
+.btn:hover,
+.btn:active {
+  background: #f87171;
+  font-weight: bold;
+}
+
+.App h1 {
+  background-color: rgb(241, 141, 141);
+  padding: 2rem 0rem;
+}
