@@ -34,7 +34,12 @@ const musicLibrary = {
     }
   ],
   Rock: [
-    { musicName: "Rockstar ft. NickelBack", rating: "4/5", description: "" },
+    {
+      musicName: "Rockstar ft. NickelBack",
+      rating: "4/5",
+      description:
+        "What is the story behind Nickelback? Nickelback started out as a mid-90s cover band in Alberta, because of course they did. They recorded their first album of original songs, Curb, in 1996. When Curb came out, the band consisted of Chad Kroeger and his two brothers Mike (bass) and Brandon (drums), as well as Ryan Peake on guitar."
+    },
     {
       musicName: "Smells like Teen Spirit ft. Nirvana",
       rating: "3.5/5",
